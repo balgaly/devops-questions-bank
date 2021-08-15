@@ -1,6 +1,3 @@
-# devops-questions-bank
-Updating Bank of DevOps related questions for job interviews
-
 <h2 dir="ltr" style="line-height:1.38;margin-left: -4.5pt;margin-top:18pt;margin-bottom:10pt;"><span style="font-size:16pt;font-family:Nunito,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AWS</span></h2>
 <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
@@ -115,11 +112,14 @@ Updating Bank of DevOps related questions for job interviews
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What are state files? What is &ldquo;state file locking&rdquo;?</span></p>
     </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Terraform has released a new version that you are interested in. Explain your update process?</span></p>
+    </li>
 </ul>
 <h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:10pt;"><span style="font-size:16pt;font-family:Nunito,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Jenkins</span></h2>
 <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Why have you used jenkins? What makes it better than other tools?</span></p>
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Why have you used jenkins? What makes it better/worse than other tools?</span></p>
     </li>
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What other CI tools do you know?</span></p>
@@ -154,6 +154,15 @@ Updating Bank of DevOps related questions for job interviews
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Let&rsquo;s say I want to edit the code. How can I make sure I&apos;m not breaking anything on production when I run it for the first time?</span></p>
     </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Some code you wrote is breaking after being deployed to production. How do you troubleshoot and fix the issue?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">You are writing some code and realise that you have repeated yourself by copying a section of code and adjusting small details. How would you proceed?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">You have a task to add a totally new and high impact feature to your code. How do you proceed?</span></p>
+    </li>
 </ul>
 <h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:10pt;"><span style="font-size:16pt;font-family:Nunito,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">GIT</span></h2>
 <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
@@ -169,9 +178,21 @@ Updating Bank of DevOps related questions for job interviews
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What is the command you use to download a repository to your PC?</span></p>
     </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What is a tag?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What is a README.md file for?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What is the best way to manage the merge of changes into your master/main branch?</span></p>
+    </li>
 </ul>
 <h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:10pt;"><span style="font-size:16pt;font-family:Nunito,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Devops</span></h2>
 <ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Do DevOps engineers deal with customers?</span></p>
+    </li>
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What is the difference between CI and CD?</span></p>
     </li>
@@ -181,6 +202,13 @@ Updating Bank of DevOps related questions for job interviews
     <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">What testing takes part in the devops process?</span></p>
     </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">You are introducing a new tool to your organization. How would you make sure everyone first accepts and then begins using this tool?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Your manager is concerned about the cost of a new technology you have introduced. How can you help?</span></p>
+    </li>
+    <li aria-level="1" dir="ltr" style="list-style-type:disc;font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:12pt;font-family:Comfortaa,cursive;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Some people in your organization are reluctant to trust automated infrastructural processes. What can you do to help with their concerns?</span></p>
+    </li>
 </ul>
-<p><br></p>
-<p><br></p>
